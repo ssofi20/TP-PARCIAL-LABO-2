@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto Parcial" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto Parcial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto Parcial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AppManager.cpp" />
+		<Unit filename="AppManager.h" />
+		<Unit filename="Archivo.cpp" />
+		<Unit filename="Archivo.h" />
+		<Unit filename="Configuracion.cpp" />
+		<Unit filename="Configuracion.h" />
+		<Unit filename="Empresa.cpp" />
+		<Unit filename="Empresa.h" />
+		<Unit filename="EmpresaArchivo.cpp" />
+		<Unit filename="EmpresaArchivo.h" />
+		<Unit filename="EmpresaManager.cpp" />
+		<Unit filename="EmpresaManager.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Municipio.cpp" />
+		<Unit filename="Municipio.h" />
+		<Unit filename="MunicipioArchivo.cpp" />
+		<Unit filename="MunicipioArchivo.h" />
+		<Unit filename="MunicipioManager.cpp" />
+		<Unit filename="MunicipioManager.h" />
+		<Unit filename="Reportes.cpp" />
+		<Unit filename="Reportes.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1715459040 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\main.cpp
+	<iostream>
+	"AppManager.h"
+
+1715380190 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\empresa.cpp
+	"Empresa.h"
+
+1715380190 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\empresa.h
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715380256 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\fecha.h
+
+1715380256 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1715380434 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\archivo.cpp
+	"Archivo.h"
+
+1715380434 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\archivo.h
+	<string>
+
+1715573622 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\empresaarchivo.cpp
+	"EmpresaArchivo.h"
+
+1715573580 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\empresaarchivo.h
+	<string>
+	"Empresa.h"
+	"Archivo.h"
+
+1715380330 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\empresamanager.cpp
+	"EmpresaManager.h"
+	<iostream>
+
+1715380330 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+
+1715380626 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\municipio.cpp
+	"Municipio.h"
+
+1715380626 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\municipio.h
+	<cstring>
+	<string>
+
+1715460658 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\appmanager.cpp
+	<iostream>
+	"AppManager.h"
+
+1715460658 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\appmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+	"Configuracion.h"
+
+1715615188 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715573580 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\municipioarchivo.h
+	<string>
+	"Municipio.h"
+	"Archivo.h"
+
+1715573636 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\municipioarchivo.cpp
+	"MunicipioArchivo.h"
+
+1715458938 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\municipiomanager.cpp
+	"MunicipioManager.h"
+	"Municipio.h"
+	<iostream>
+
+1715461072 e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\configuracion.h
+	"EmpresaArchivo.h"
+	"MunicipioArchivo.h"
+
+1715573716 source:e:\utn\laboratorio 2\1° parcial proyecto\proyecto parcial\configuracion.cpp
+	<iostream>
+	"Configuracion.h"
+
+1715616010 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\appmanager.cpp
+	<iostream>
+	"AppManager.h"
+
+1715616010 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\appmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+	"Reportes.h"
+	"Configuracion.h"
+
+1715615573 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715380626 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipio.h
+	<cstring>
+	<string>
+
+1715573580 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipioarchivo.h
+	<string>
+	"Municipio.h"
+	"Archivo.h"
+
+1715380434 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\archivo.h
+	<string>
+
+1715380330 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+
+1715380190 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresa.h
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715380256 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\fecha.h
+
+1715622353 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresaarchivo.h
+	<string>
+	"Empresa.h"
+	"Archivo.h"
+
+1715461072 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\configuracion.h
+	"EmpresaArchivo.h"
+	"MunicipioArchivo.h"
+
+1715380434 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\archivo.cpp
+	"Archivo.h"
+
+1715623605 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\configuracion.cpp
+	<iostream>
+	"Configuracion.h"
+
+1715380190 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresa.cpp
+	"Empresa.h"
+
+1715622803 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresaarchivo.cpp
+	"EmpresaArchivo.h"
+
+1715380330 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresamanager.cpp
+	"EmpresaManager.h"
+	<iostream>
+
+1715380256 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1715459040 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\main.cpp
+	<iostream>
+	"AppManager.h"
+
+1715380626 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipio.cpp
+	"Municipio.h"
+
+1715622294 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipioarchivo.cpp
+	"MunicipioArchivo.h"
+
+1715628381 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipiomanager.cpp
+	"MunicipioManager.h"
+	"Municipio.h"
+	<iostream>
+
+1715615953 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\reportes.h
+
+1715615953 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\reportes.cpp
+	<iostream>
+	"Reportes.h"
+
