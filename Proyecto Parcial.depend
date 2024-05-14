@@ -136,7 +136,7 @@
 1715380190 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresa.cpp
 	"Empresa.h"
 
-1715622803 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresaarchivo.cpp
+1715656651 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresaarchivo.cpp
 	"EmpresaArchivo.h"
 
 1715380330 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\empresamanager.cpp
@@ -154,7 +154,7 @@
 1715380626 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipio.cpp
 	"Municipio.h"
 
-1715622294 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipioarchivo.cpp
+1715628494 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipioarchivo.cpp
 	"MunicipioArchivo.h"
 
 1715628381 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\municipiomanager.cpp
@@ -164,7 +164,95 @@
 
 1715615953 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\reportes.h
 
-1715615953 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\reportes.cpp
+1715656651 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2\proyecto parcial\reportes.cpp
+	<iostream>
+	"Reportes.h"
+
+1715714126 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\appmanager.cpp
+	<iostream>
+	"AppManager.h"
+
+1715719814 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\appmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+	"Reportes.h"
+	"Configuracion.h"
+
+1715615573 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715380626 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\municipio.h
+	<cstring>
+	<string>
+
+1715573580 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\municipioarchivo.h
+	<string>
+	"Municipio.h"
+	"Archivo.h"
+
+1715380434 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\archivo.h
+	<string>
+
+1715380330 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+
+1715380190 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\empresa.h
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715380256 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\fecha.h
+
+1715622353 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\empresaarchivo.h
+	<string>
+	"Empresa.h"
+	"Archivo.h"
+
+1715615953 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\reportes.h
+
+1715461072 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\configuracion.h
+	"EmpresaArchivo.h"
+	"MunicipioArchivo.h"
+
+1715380434 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\archivo.cpp
+	"Archivo.h"
+
+1715701026 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\configuracion.cpp
+	<iostream>
+	"Configuracion.h"
+
+1715380190 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\empresa.cpp
+	"Empresa.h"
+
+1715656651 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\empresaarchivo.cpp
+	"EmpresaArchivo.h"
+
+1715710782 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\empresamanager.cpp
+	"EmpresaManager.h"
+	<iostream>
+
+1715380256 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1715714126 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\main.cpp
+	<iostream>
+	"AppManager.h"
+
+1715380626 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\municipio.cpp
+	"Municipio.h"
+
+1715628494 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\municipioarchivo.cpp
+	"MunicipioArchivo.h"
+
+1715710710 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\municipiomanager.cpp
+	"MunicipioManager.h"
+	"Municipio.h"
+	<iostream>
+
+1715714164 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\reportes.cpp
 	<iostream>
 	"Reportes.h"
 

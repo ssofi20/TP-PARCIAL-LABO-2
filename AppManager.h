@@ -14,5 +14,11 @@ class AppManager
     protected:
 
     private:
+
+        EmpresaManager me;
+        MunicipioManager mm;
+        Configuracion mc;
+        Reportes mr;
+
 };
 

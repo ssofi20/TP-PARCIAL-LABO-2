@@ -199,7 +199,7 @@ bool EmpresaArchivo::restaurarCopia(std::string fileName)
 }
 
 
-///RESTAURA LA COPIA DE SEGURIDAD
+///ESTABLECE LOS DATOS DE INICIO
 
 bool EmpresaArchivo::datosInicio(std::string fileName)
 {

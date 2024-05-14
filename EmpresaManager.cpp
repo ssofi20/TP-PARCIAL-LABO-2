@@ -276,6 +276,8 @@ void EmpresaManager::menuEmpresas()
         cout << " --------------------------------------- " << endl;
         cout << " 0. VOLVER AL MENU PRINCIPAl" << endl;
         cout << "---------------------------------------- " << endl;
+        cout << endl;
+        cout << " SELECCIONE UNA DE LAS OPCIONES: ";
         cin >> opcion;
 
         switch (opcion)

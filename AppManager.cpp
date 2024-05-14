@@ -8,11 +8,6 @@ void AppManager::menuPrincipal()
 
     int opcion;
 
-    EmpresaManager em;
-    MunicipioManager mm;
-    Configuracion mc;
-    Reportes mr;
-
     while (true){
 
         system("cls");
@@ -23,6 +18,7 @@ void AppManager::menuPrincipal()
         cout << " 4. CONFIGURACION " << endl;
         cout << " ------------------------------------------ " << endl;
         cout << " 0. SALIR DE LA APLICACION" << endl;
+        cout << " ------------------------------------------ " << endl;
         cout << endl;
         cout << " SELECCIONE UNA DE LAS OPCIONES: ";
         cin >> opcion;
@@ -30,7 +26,7 @@ void AppManager::menuPrincipal()
         switch(opcion)
         {
             case 1:
-                em.menuEmpresas();
+                me.menuEmpresas();
                 break;
             case 2:
                 mm.menuMunicipios();

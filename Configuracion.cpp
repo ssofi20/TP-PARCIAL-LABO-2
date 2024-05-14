@@ -155,6 +155,7 @@ void Configuracion::menuConfiguracion()
         cout << " 5. ESTABLECER DATOS DE INICIO" << endl;
         cout << " -------------------------------------------- " << endl;
         cout << " 0. VOLVER AL MENU PRINCIPAL" << endl;
+        cout << " -------------------------------------------- " << endl;
 
         cout << endl;
 

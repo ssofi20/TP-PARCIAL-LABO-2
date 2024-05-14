@@ -17,9 +17,13 @@ Municipio MunicipioManager::crearMunicipio(Municipio municipio)
         cout << "NUMERO DE MUNICIPIO: ";
         cin >> numero;
 
-        if (municipioArchivo.isExist(numero))
+        if(numero < 1 || numero > 135)
         {
-            cout << "NUMERO DE MUNICIPIO EXISTENTE, PRUEBE CON OTRO..." << endl;
+            cout << "DEBE INGRESAR UN NUMERO DE MUNICIPIO VALIDO, INTENTE DE NUEVO..." << endl;
+        }
+        else if(municipioArchivo.isExist(numero))
+        {
+            cout << "NUMERO DE MUNICIPIO EXISTENTE, INTENTE CON OTRO..." << endl;
         }
         else{
             break;
@@ -235,9 +239,11 @@ void MunicipioManager::menuMunicipios()
         cout << " 3. LISTAR TODOS LOS MUNICIPIOS " << endl;
         cout << " 4. MODIFICAR CANTIDAD DE HABITANTES " << endl;
         cout << " 5. ELIMINAR REGISTRO" << endl;
-        cout << " --------------------------------------- " << endl;
+        cout << " ----------------------------------------- " << endl;
         cout << " 0. VOLVER AL MENU PRINCIPAl" << endl;
-        cout << "---------------------------------------- " << endl;
+        cout << "------------------------------------------ " << endl;
+        cout << endl;
+        cout << " SELECCIONE UNA DE LAS OPCIONES: ";
         cin >> opcion;
 
         switch (opcion)
