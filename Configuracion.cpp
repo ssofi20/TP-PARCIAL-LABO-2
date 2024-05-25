@@ -9,7 +9,7 @@ void Configuracion::copiaSeguridadEmpresas()
     bool hacerCopia;
 
     cout << " ¿ESTA SEGURO QUE QUIERE REALIZAR UNA COPIA DE SEGURIDAD?" << endl;
-    cout << "              1- SI          0- NO" << endl;
+    cout << "                1- SI          0- NO" << endl;
     cin >> hacerCopia;
 
     if(hacerCopia)
@@ -36,7 +36,7 @@ void Configuracion::copiaSeguridadMunicipios()
     bool hacerCopia;
 
     cout << " ¿ESTA SEGURO QUE QUIERE REALIZAR UNA COPIA DE SEGURIDAD?" << endl;
-    cout << "              1- SI          0- NO" << endl;
+    cout << "                  1- SI          0- NO" << endl;
     cin >> hacerCopia;
 
     if(hacerCopia)
@@ -63,7 +63,7 @@ void Configuracion::restaurarCopiaEmpresas()
     bool restaurar;
 
     cout << " ¿ESTA SEGURO QUE QUIERE RESTAURAR LA COPIA DE SEGURIDAD?" << endl;
-    cout << "              1- SI          0- NO" << endl;
+    cout << "                 1- SI          0- NO" << endl;
     cin >> restaurar;
 
     if(restaurar)
@@ -90,7 +90,7 @@ void Configuracion::restaurarCopiaMunicipios()
     bool restaurar;
 
     cout << " ¿ESTA SEGURO QUE QUIERE RESTAURAR LA COPIA DE SEGURIDAD?" << endl;
-    cout << "              1- SI          0- NO" << endl;
+    cout << "                  1- SI          0- NO" << endl;
     cin >> restaurar;
 
     if(restaurar)

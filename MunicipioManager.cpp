@@ -241,7 +241,7 @@ void MunicipioManager::menuMunicipios()
         cout << " 5. ELIMINAR REGISTRO" << endl;
         cout << " ----------------------------------------- " << endl;
         cout << " 0. VOLVER AL MENU PRINCIPAl" << endl;
-        cout << "------------------------------------------ " << endl;
+        cout << " ----------------------------------------- " << endl;
         cout << endl;
         cout << " SELECCIONE UNA DE LAS OPCIONES: ";
         cin >> opcion;

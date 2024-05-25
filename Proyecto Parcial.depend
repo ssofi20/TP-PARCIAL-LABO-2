@@ -210,7 +210,9 @@
 	"Empresa.h"
 	"Archivo.h"
 
-1715615953 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\reportes.h
+1715722547 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\reportes.h
+	"MunicipioArchivo.h"
+	"EmpresaArchivo.h"
 
 1715461072 c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\configuracion.h
 	"EmpresaArchivo.h"
@@ -252,7 +254,102 @@
 	"Municipio.h"
 	<iostream>
 
-1715714164 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\reportes.cpp
+1715722757 source:c:\users\smber\onedrive\escritorio\proyecto parcial labo 2 - copia\proyecto parcial\reportes.cpp
+	<string>
 	<iostream>
+	<cstring>
 	"Reportes.h"
+
+1715714128 source:e:\utn\proyecto parcial\appmanager.cpp
+	<iostream>
+	"AppManager.h"
+
+1715719816 e:\utn\proyecto parcial\appmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+	"Reportes.h"
+	"Configuracion.h"
+
+1715615574 e:\utn\proyecto parcial\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715380626 e:\utn\proyecto parcial\municipio.h
+	<cstring>
+	<string>
+
+1715573580 e:\utn\proyecto parcial\municipioarchivo.h
+	<string>
+	"Municipio.h"
+	"Archivo.h"
+
+1715380434 e:\utn\proyecto parcial\archivo.h
+	<string>
+
+1715380330 e:\utn\proyecto parcial\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+
+1715380190 e:\utn\proyecto parcial\empresa.h
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715380256 e:\utn\proyecto parcial\fecha.h
+
+1715622354 e:\utn\proyecto parcial\empresaarchivo.h
+	<string>
+	"Empresa.h"
+	"Archivo.h"
+
+1715892498 e:\utn\proyecto parcial\reportes.h
+	"MunicipioArchivo.h"
+	"EmpresaArchivo.h"
+
+1715461072 e:\utn\proyecto parcial\configuracion.h
+	"EmpresaArchivo.h"
+	"MunicipioArchivo.h"
+
+1715380434 source:e:\utn\proyecto parcial\archivo.cpp
+	"Archivo.h"
+
+1715858962 source:e:\utn\proyecto parcial\configuracion.cpp
+	<iostream>
+	"Configuracion.h"
+
+1715380190 source:e:\utn\proyecto parcial\empresa.cpp
+	"Empresa.h"
+
+1715656652 source:e:\utn\proyecto parcial\empresaarchivo.cpp
+	"EmpresaArchivo.h"
+
+1716465472 source:e:\utn\proyecto parcial\empresamanager.cpp
+	"EmpresaManager.h"
+	<iostream>
+
+1715380256 source:e:\utn\proyecto parcial\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1715714128 source:e:\utn\proyecto parcial\main.cpp
+	<iostream>
+	"AppManager.h"
+
+1715380626 source:e:\utn\proyecto parcial\municipio.cpp
+	"Municipio.h"
+
+1715628496 source:e:\utn\proyecto parcial\municipioarchivo.cpp
+	"MunicipioArchivo.h"
+
+1716465472 source:e:\utn\proyecto parcial\municipiomanager.cpp
+	"MunicipioManager.h"
+	"Municipio.h"
+	<iostream>
+
+1716465194 source:e:\utn\proyecto parcial\reportes.cpp
+	<string>
+	<iostream>
+	<cstring>
+	"Reportes.h"
+	"MunicipioManager.h"
 

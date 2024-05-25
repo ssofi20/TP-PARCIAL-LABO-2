@@ -1,4 +1,6 @@
 #pragma once
+#include "MunicipioArchivo.h"
+#include "EmpresaArchivo.h"
 
 class Reportes
 {
@@ -8,5 +10,7 @@ class Reportes
     protected:
 
     private:
+        void punto1();
+        void punto2();
 };
 
